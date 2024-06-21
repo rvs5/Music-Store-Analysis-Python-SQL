@@ -1,4 +1,3 @@
-```markdown
 # PostgreSQL Music Store Data Analysis 🎵📊
 
 ## Objective
@@ -25,4 +24,4 @@ In this PostgreSQL data analysis project, I delved into a music store dataset to
 ## Conclusion
 
 Despite the challenges, this project provided valuable insights into customer preferences, employee dynamics, and market trends. These insights can drive targeted marketing, optimize inventory, and enhance customer satisfaction, positioning the music store for sustainable growth and success. 🚀💼
-```
+
